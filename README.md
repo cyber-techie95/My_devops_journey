@@ -5,6 +5,6 @@ I have embarked on a journey to learn new skills and dive into the culture of De
 
 My understanding of DevOps is that it is a culture of collaboration between Development and Operations team. The goal is for stable and faster deployments of Apps using automated approach. 
 Being in tech for 5 years, I have got my hands dirty on a few technologies such as Linux basics, AWS EC2, Computer Networking & Security. 
-My aim is to deep dive into the knowledge and skills that are a part of DevOps culture and advance my career as a DevOps/Site Reliability Engineer.
+My aim is to deep dive into the knowledge and skills which constitutes DevOps culture and advance my career as a DevOps/Site Reliability Engineer.
 
 Thank you!
