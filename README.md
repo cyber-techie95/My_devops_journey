@@ -1,5 +1,5 @@
 Hello!
-My name is Yusra and I have been in the tech industry for about 5 years now. I started my career as an IT User support technician and worked my way upto a Customer Success Engineer for a Cybersecurity firm.
+My name is Yusra and I have been in the tech industry for about 5 years now. I started my career as an IT User support technician and worked my way upto Customer Success Engineer for a Cybersecurity firm.
 I have a Bachelors Degree in Information Technology and a few industry leading certifications.
 I have embarked on a journey to learn new skills and dive into the culture of DevOps.
 
